@@ -4,6 +4,9 @@ git commit -m "Mensagem do commit"
 git status
 git log
 git log --oneline
+git branch -a
+git branch -D <nome>
+git fetch --prune origin
 
 (OBS: Untracked --> Tracker --> Versioned)
 
