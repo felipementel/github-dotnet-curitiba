@@ -12,3 +12,5 @@ git remote add origin https://github.com/felipementel/github-dotnet-curitiba.git
 git remote -v
 git switch -c feature/NOME
 git push --set-upstream origin <main|gilson>
+
+git pull
