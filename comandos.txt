@@ -1,0 +1,8 @@
+git init
+git add <Arquivo> OU git add .
+git commit -m "Mensagem do commit"
+git status
+git log
+git log --oneline
+
+(OBS: Untracked --> Tracker --> Versioned)
